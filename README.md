@@ -1,1 +1,1 @@
-Projetos de nível iniciante estaria postando aqui.
+Projetos de nível iniciante estarei postando aqui.
