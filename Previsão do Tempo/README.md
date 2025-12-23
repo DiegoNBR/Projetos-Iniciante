@@ -1,2 +1,2 @@
-# Projetos-Iniciante
-Um local para projetos de nível fácil .
+# Projeto-Iniciante
+Meu primeiro projeto envolvendo Html, Css e JS.
